@@ -18,8 +18,9 @@ const Singers = () => {
        const newCart  = [...cart, singer]
        setCart(newCart)
     }
+
     return (
-        <div className="ms-5">
+        <div className="ms-5 mb-5">
             <div className="row">
                 <div className="col-md-9 all-singers">
                     <div className="row">
@@ -34,7 +35,7 @@ const Singers = () => {
                 </div>
                 <div className="col-md-3">
                         {
-                            <Cart key={cart.key} cart={cart}></Cart>
+                            <Cart cart={cart}></Cart>
                         }
                 </div>
             </div>

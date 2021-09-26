@@ -1,4 +1,8 @@
-.header-title h1{
+.header-title{
+    color: white;
+    background-color: rgba(67, 43, 88, 0.945);
+}
+.header-title h2{
     line-height: 65px;
     
 }

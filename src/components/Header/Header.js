@@ -2,10 +2,10 @@ import React from 'react';
 import "./Header.css"
 const Header = () => {
     return (
-        <div className=" header-title text-center bg-info">
-            <h1 className="text-warning">American Singers</h1>
-            <h1>American biggest concert</h1>
-            <h1>Total Budget: 100M</h1>
+        <div className=" header-title text-center ">
+            <h2>American biggest concert</h2>
+            <h5>This is the biggest concert of united states.Put your favourite singers</h5>
+            <h2>Total Budget: 10M</h2>
         </div>
     );
 };

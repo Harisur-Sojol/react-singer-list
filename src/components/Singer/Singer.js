@@ -1,10 +1,12 @@
 import React from "react";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faShoppingCart, } from '@fortawesome/free-solid-svg-icons'
+
 import "./singer.css";
 
 const Singer = (props) => {
-//   console.log(props)
   const { name, role, img, salary, country, age } = props.singer;
-
+  const shoppingcart = <FontAwesomeIcon icon={faShoppingCart} />
   return (
     <div className="col-md-4 gy-4">
       <div className="card h-100">
@@ -17,7 +19,10 @@ const Singer = (props) => {
                 <h5><span className="singer-details">Age:</span> <span className="singer-details2">{age}</span></h5>
             </div>
             <div className = "mx-auto m-3">
-                <button className="cart-btn" onClick={ ()=> props.handleCartButton(props.singer)}>Add To Cart</button>
+                <button className="cart-btn" onClick={ ()=> props.handleCartButton(props.singer)}>{shoppingcart} Add To Cart</button>
+            </div>
+            <div>
+
             </div>
       </div>
     </div>
@@ -25,8 +30,3 @@ const Singer = (props) => {
 };
 
 export default Singer;
-
-
-<div class="card-footer">
-<small class="text-muted">Last updated 3 mins ago</small>
-</div>

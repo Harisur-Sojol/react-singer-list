@@ -7,4 +7,4 @@
   <li>Clean and fresh code</li>
 
 </ul>
-code link: https://adoring-gates-75f138.netlify.app/
+Site link: https://adoring-gates-75f138.netlify.app/

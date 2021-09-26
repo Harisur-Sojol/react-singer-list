@@ -1,4 +1,7 @@
-.App {
+.all-component{
+  overflow-x: hidden;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +38,5 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
+

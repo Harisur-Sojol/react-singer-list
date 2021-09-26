@@ -1,0 +1,20 @@
+.cart-btn{
+    background-color: rgb(87, 87, 173);
+    padding:5px 25px;
+    border-radius: 8px;
+    color: white;
+    border: 2px solid lightgray;
+}
+.singer-details{
+    color: rgb(0, 101, 119);
+}
+.singer-details2{
+    color: rgb(56, 72, 75);
+}
+.singer-img{
+    border-radius: 100%;
+    width: 160px;
+    height: 160px;
+    padding-top: 5px;
+    margin: auto;
+}

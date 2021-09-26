@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Taylor Swift",
+      "netWorth": "$5.3M",
+      "country": "United States",
+      "salary": 75000,
+      "img": "https://pyxis.nymag.com/v1/imgs/939/e0a/52e1c59e6083938959d94fdb11f17710f5-taylor-swift.rsquare.w1200.jpg",
+      "key": 1,
+      "role": "singer",
+      "age": 30
+    },
+    {
+      "name": "Cardi B",
+      "netWorth": "$4.9M",
+      "country": "Manhattan",
+      "salary": 60000,
+      "role": "singer",
+      "age": 30,
+      "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cardi-b-performs-at-z100s-jingle-ball-2018-at-madison-news-photo-1069634376-1551115000.jpg?crop=0.601xw:0.906xh;0.293xw,0.0313xh&resize=480:*",
+      "key" : 3
+    },
+    {
+      "name": "Katy Perry",
+      "netWorth": "$4.8M",
+      "country": "United States",
+      "salary": 70000,
+      "role": "singer",
+      "age": 28,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmAPdk9f0GnqltsK8SuvmOvjQK_zqY-PV6w&usqp=CAU",
+      "key" : 2
+    },
+    {
+      "name": "Billie Eilish",
+      "netWorth": "$4.7M",
+      "country": "United States",
+      "salary": 750000,
+      "role": "singer",
+      "age": 25,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2801%29_%28cropped%29.jpg/1200px-Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2801%29_%28cropped%29.jpg",
+      "key": 5
+    },
+    {
+      "name": "Marshmello",
+      "netWorth": "$3.7M",
+      "country": "United States",
+      "salary": 45000,
+      "role": "producer",
+      "age":29,
+      "img": "https://thumbor.forbes.com/thumbor/0x0/smart/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5be1e2a3a7ea437059163919%2F960x0.jpg%3FcropX1%3D0%26cropX2%3D1999%26cropY1%3D0%26cropY2%3D1999",
+      "key": 178
+    },
+    {
+      "name": "Jennifer Lopez",
+      "netWorth": "$3.6M",
+      "country": "United States",
+      "salary": 50000,
+      "role": "singer",
+      "age":33,
+      "img": "https://www.refinery29.com/images/9345480.jpg",
+      "key": 10
+    },
+    {
+      "name": "Ariana Grande",
+      "netWorth": "$3.3M",
+      "country": "United States",
+      "salary": 100000,
+      "role": "singer",
+      "age": 36,
+      "img": "https://popnable.com/images/singers/large/ariana_grande_united_states_top_50_233.jpeg",
+      "key": 11
+    },
+    {
+      "name": "Post Malone",
+      "netWorth": "$3.6M",
+      "country": "United States",
+      "salary": 110000,
+      "role": "singer",
+      "age": 37,
+      "img": "https://pyxis.nymag.com/v1/imgs/fdf/db0/421af17121276a71945282e440357c43cb-25-post-malone-2.rsquare.w700.jpg",
+      "key": 14
+    },
+    {
+      "name": "Selena Gomez",
+      "netWorth": "$3M",
+      "country": "United States",
+      "salary": 90000,
+      "role": "singer",
+      "age": 25,
+      "img": "https://popnable.com/images/singers/large/selena_gomez_united_states_top_50_233.jpeg",
+      "key": 15
+    }
+  ]
+  

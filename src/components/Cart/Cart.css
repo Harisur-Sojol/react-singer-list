@@ -1,0 +1,10 @@
+.singers-count{
+    margin-top: 24px;
+}
+.btn{
+    background-color: rgb(87, 87, 173);
+    padding:5px 50px;
+    border-radius: 8px;
+    color: white;
+    border: 2px solid lightgray;
+}

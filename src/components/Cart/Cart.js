@@ -9,8 +9,8 @@ const Cart = (props) => {
         total += item.salary;
     }
     return (
-        <div className="singers-count">
-            <h5>Players added: {props.cart.length}</h5>
+        <div className="singers-cart">
+            <h5>Singers added: {props.cart.length}</h5>
             
             <h6>Total Cost: <span className="text-warning fw-bold fs-5">$</span> {total}</h6>
         {

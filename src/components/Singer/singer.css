@@ -1,3 +1,6 @@
+.singers-card :hover{
+    background-color: rgb(231, 221, 185);
+}
 .cart-btn{
     background-color: rgb(87, 87, 173);
     padding:5px 25px;
@@ -6,10 +9,10 @@
     border: 2px solid lightgray;
 }
 .singer-details{
-    color: rgb(0, 101, 119);
+    color: rgb(22, 78, 88);
 }
 .singer-details2{
-    color: rgb(56, 72, 75);
+    color: rgb(9, 147, 172);
 }
 .singer-img{
     border-radius: 100%;

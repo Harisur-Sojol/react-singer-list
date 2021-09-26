@@ -8,8 +8,8 @@ const Singer = (props) => {
   const { name, role, img, salary, country, age } = props.singer;
   const shoppingcart = <FontAwesomeIcon icon={faShoppingCart} />
   return (
-    <div className="col-md-4 gy-4">
-      <div className="card h-100">
+    <div className="col-md-4 gy-4 singers-card">
+      <div className="card h-100 ">
             <img className="singer-img"  src={img} alt="" />
             <div className="card-body text-center">
                 <h5><span className="singer-details">Name: </span> <span className="singer-details2">{name}</span></h5>

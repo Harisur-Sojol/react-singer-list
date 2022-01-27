@@ -5,7 +5,7 @@ const Header = () => {
         <div className=" header-title text-center ">
             <h2>American biggest concert</h2>
             <h5>This is the biggest concert of united states.Put your favourite singers</h5>
-            <h2>Total Budget: 10M</h2>
+            <h2>Total Budget: 11M</h2>
         </div>
     );
 };
